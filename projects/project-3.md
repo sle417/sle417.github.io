@@ -7,7 +7,7 @@ date: 2020-11-27
 labels:
   - Computer Parts
   - DIY
-summary: something
+summary: Building my own PC and upgrading it
 ---
 
 <img class="ui image" src="../images/pc.jpg">
