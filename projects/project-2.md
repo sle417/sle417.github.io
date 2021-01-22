@@ -4,7 +4,6 @@ layout: project
 type: project
 image: ../images/bank.PNG
 title: Bank Record Database Simulator
-# All dates must be YYYY-MM-DD format!
 date: 2020-11-27
 labels:
   - ICS 212
