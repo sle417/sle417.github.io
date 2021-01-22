@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics111.png
+image: ../images/ics111.PNG
 title: ICS 111 Project
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-01
