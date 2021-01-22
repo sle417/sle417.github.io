@@ -84,15 +84,13 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "SSS Manoa Makeover: Pond Cleanup",
+      "website": "https://manoa.hawaii.edu/undergrad/sss/",
+      "position": "Cleaner",
+      "startDate": "2019-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Assistance in managing and cleaning the Krauss Pond",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
@@ -112,7 +110,7 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2019-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
@@ -120,7 +118,7 @@
       "title": "Mckinley Foundation Scholarship",
       "date": "2019",
       "awarder": "William Mckinley Highschool Foundation Alumni",
-      "summary": "I won a the the foundation scholarship for $1250 after a lengthy application process"
+      "summary": "$1250 awarded for academic excellence"
     }
   ],
   "references": [
