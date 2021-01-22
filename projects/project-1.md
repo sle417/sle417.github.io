@@ -2,15 +2,13 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: ICS 111 Project
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-10-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+summary: I developed a small and simple game in an introductory ICS class.
 ---
 
 <div class="ui small rounded images">
