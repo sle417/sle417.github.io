@@ -11,7 +11,8 @@ labels:
 summary: I developed a small and simple game in an introductory ICS class.
 ---
 
-##Farm-tastic
+## Farm-tastic
+
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ics111.PNG">
 </div>
