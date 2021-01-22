@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: ../images/picture.PNG
+image: ../images/pc.jpg
 title: Building a personal PC
 date: 2020-11-27
 labels:
@@ -11,7 +11,7 @@ labels:
 summary: something
 ---
 
-
+<img class="ui image" src="../images/pc.jpg">
 
 When it comes to building a computer, things may seem convoluted and confusing at first, but when you begin to learn about the essential parts of a computer, which consists of the CPU (Central Processing Unit), GPU (Graphics Processing Unit), Motherboard, RAM (Random Access Memory) , PSU (Power Supply Unit), Storage like SSDs and HDDs and the coolers for it, you develop a better understanding of their functions to make a working PC. Before building my first PC and upgrading it, I knew nothing about computer parts and the market for them. Like many people who upgraded their computers during this pandemic, I was interested in improving my workstation at home to enhance my productivity and also to game.
 
