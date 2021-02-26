@@ -24,6 +24,6 @@ Some of my experience with UI Frameworks are with Semantic UI which is a very si
 
 Shown below is one of the websites that I was able to recreate using Semantic UI.
 
-<img class="image" style="width: 300px;" src="../images/3dmark1.png">
+<img class="image" src="../images/3dmark1.png">
 <img class="image" src="../images/3dmark2.png">
 
