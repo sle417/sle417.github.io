@@ -16,11 +16,11 @@ labels:
 
 ## What are their benefits?
 
-<p align="justify">Some UI Frameworks you have probably heard of, like Angular, Bootstrap, React, Meteor and many others are all designed for a common purpose: to speed up the development process and make it as streamline as possible for developers to adopt. These UI frameworks have an extensive library of UI documentation for developers to implement and this can be time saving because instead of purely programming and desining a button in HTML for example, a developer can simply use documentation for a UI framework library and create one within a matter of seconds.
+<p align="justify">Some UI Frameworks you have probably heard of, like Angular, Bootstrap, React, Meteor and many others are all designed for a common purpose: to speed up the development process and make it as streamline as possible for developers to adopt. These UI frameworks have an extensive library of UI documentation for developers to implement and this can be time saving because instead of purely programming and designing a button in HTML for example, a developer can simply use documentation for a UI framework library and create one within a matter of seconds.
 
 ## My Experience with UI Frameworks
 
-<p align="justify">My first experience with UI Frameworks was with Semantic UI, which is a very simple and user-friendly framework that takes on the use of natural language to improve efficiency of creating beautiful website layouts. I think the benefits of Semantic UI that I have seen firsthand justify using UI frameworks because I was able to recreate numerous websites purely from the Semantic's library of UI components. If I had not learned and used a framework like Semantic, It would have taken a lot longer for me to create and make the HTML websites that I was able to.
+<p align="justify">My first experience with UI Frameworks was with Semantic UI, which is a very simple and user-friendly framework that takes on the use of natural language to improve efficiency of creating beautiful website layouts. I think the benefits of Semantic UI that I have seen firsthand justify using UI frameworks because I was able to recreate numerous websites purely from the Semantic's library of UI components. If I had not learned and used a framework like Semantic, It would have taken a lot longer for me to create and make the websites that I was able to using purely HTML and CSS.
 <br></br>
 Shown below is one of the websites that I was able to recreate using Semantic UI.
 
