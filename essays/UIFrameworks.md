@@ -26,7 +26,7 @@ Shown below is one of the websites that I was able to recreate using Semantic UI
 
 <b>Original</b>
 <img class="image" src="../images/3dmark1.png">
-<hr></hr>
+<br></br>
 <b>Recreation</b>
 <img class="image" src="../images/3dmark2.png">
 
