@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium right floated rounded image" src="../images/">
+<img class="ui medium right floated rounded image" src="../images/apple.png">
 
 ## The History of Design Patterns
 
