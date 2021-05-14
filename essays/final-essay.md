@@ -21,6 +21,6 @@ An open source platform that I used for the entirety of this class was GitHub. B
 
 ## Allowing Patterns to Guide Us
 
-<img class="ui medium image" src="../images/design-pattern.webp">
+<img class="ui medium right floated image" src="../images/design-pattern.webp">
 
 One of the more important concepts I learned in this class was Design Patterns. Although there are many design patterns out there, each with different and unique functions and purposes, the design pattern that I mainly utilized in ICS 314 was aimed specifically for web application development, namely, the Model-View-Controller Pattern (MVC). The Design Patterns module stuck out to me in a very particular way. It made me realize how extensive the topic of software engineering can be and the depths of expertise and experience that some of these require. With that being said, design patterns can be applicable in so many other disciplines of computer science than just web development. It serves as best practices or effective solutions to problems that people had to tackle in the past and simply guides us in creating stable, coherent systems. Without the practicality of design patterns, security and structural integrity of many applications and systems we take advantage of everyday probably wouldn't be the same and CS would be a much harder field.
