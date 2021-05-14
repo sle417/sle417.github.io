@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML"
       ]
     },
     {
@@ -79,7 +80,9 @@
         "ICS 111: Intro to Computer Science I",
         "ICS 211: Intro to Computer Science II",
         "ICS 241: Discrete Mathematics I",
-        "ICS 141: Discrete Mathematics II"
+        "ICS 141: Discrete Mathematics II",
+        "ICS 314: Software Engineering",
+        "ICS 311: Algorithms"
       ]
     }
   ],
