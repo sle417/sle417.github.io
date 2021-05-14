@@ -25,3 +25,4 @@ The application was built using a combination of Javascript, Semantic UI, and Re
 
 Using GitHub as a primary way to collaborate on our project, myself and 4 others (Ana Araujo, John Suelen, Johnny Ho, Zi Jun Huang) worked on this project for approximately three weeks. For the duration of this project, my contributions were first creating a discord server for easy communication and establishing a project name. Then, I was responsible for drafting mockup pages, designing the overall theme of the website, constructing the landing page and assisted in efforts of other subsequent page implementations.
 
+<img class="ui medium image" src="../images/professors.png">
