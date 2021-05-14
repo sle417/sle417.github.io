@@ -4,7 +4,7 @@ type: essay
 image: images/f.jpg
 title: The Journey Continues
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-14
+date: 2021-05-13
 labels:
   - Software Engineering
   - Design Patterns
