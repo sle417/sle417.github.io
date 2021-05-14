@@ -6,8 +6,9 @@ title: ICS 111 Project
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-01
 labels:
-  - Java Project
+  - Java
   - ICS 111
+  - EZ Graphics
 summary: A simple game built from Java in an introductory ICS class.
 ---
 
