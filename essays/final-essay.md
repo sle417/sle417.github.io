@@ -15,7 +15,7 @@ As the Spring semester draws to an end, looking back on my experience taking ICS
 
 ## The Future and Power of Open Source 
 
-<img class="ui medium right floated rounded image" src="../images/GitHub-logo.jpg">
+<img class="ui medium right floated image" src="../images/GitHub-logo.jpg">
 
 An open source platform that I used for the entirety of this class was GitHub. Before utilizing GitHub for my own projects and assignments, I did not know that you could use other people's code and clone your own version of it to work on. It was something that later became important in building my very first web application. In ICS 314, I used a limited number of open source templates, such as that of meteor-application-template-react and techfolios but through using these, I acknowledged its potential and usefulness. To be able to use existing work for your own purpose. To be able to allow others to re-engineer, or modify your code. To be able to collaborate with a community of developers. Beyond this classl, I think Open Source Software not only is of high quality and reliable, it allows us to learn how things are structured in an application with the added benefit that it is basically cost free and speeds up development. 
 
