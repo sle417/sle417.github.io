@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../images/class-critics-logo.png
 title: UH Class Critics
-date: 2020-11-27
+date: 2021-05-12
 labels:
   - Meteor
   - Agile Project Management
