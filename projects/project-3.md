@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/pc.jpg
+image: ../images/class-critics-logo.png
 title: UH Class Critics
 date: 2020-11-27
 labels:
