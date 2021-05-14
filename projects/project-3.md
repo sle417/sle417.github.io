@@ -2,18 +2,29 @@
 layout: project
 type: project
 image: ../images/pc.jpg
-title: Building a personal PC
+title: UH Class Critics
 date: 2020-11-27
 labels:
-  - Computer Parts
-  - DIY
-summary: Building my own PC and upgrading it
+  - Meteor
+  - Agile Project Management
+  - Semantic UI React
+  - MongoDB
+summary: A web application that serves as a review site built for the UH Manoa community,
 ---
 
-<img class="ui image" src="../images/pc.jpg">
+## Overview
 
-When it comes to building a computer, things may seem convoluted and confusing at first, but when you begin to learn about the essential parts of a computer, which consists of the CPU (Central Processing Unit), GPU (Graphics Processing Unit), Motherboard, RAM (Random Access Memory) , PSU (Power Supply Unit), Storage like SSDs and HDDs and the coolers for it, you develop a better understanding of their functions to make a working PC. Before building my first PC and upgrading it, I knew nothing about computer parts and the market for them. Like many people who upgraded their computers during this pandemic, I was interested in improving my workstation at home to enhance my productivity and also to game.
+UH Class Critics is a web application that is built and inspired based on the likes of [ratemyprofessor](https://www.ratemyprofessors.com/) and other review websites for students. It allows students from the UH Manoa system to particpate in writing reviews and evaluations for professors and courses that they have taken. It also serves as a way for other students to learn about particular courses and make judgments based on the feedback of others, reducing uncertainty and establishing clear expectations. 
 
-Through numerous information forums, YouTube videos, and websites I started putting together my very first PC in a matter of a few hours. At first, things seemed very intimidating, because the motherboard manual was super long, there were cables and screws everywhere, and I didn't also want to damage a part that could cost me hundreds. Through diligence and careful precedings, I tried my best to do everything in the order that I learned and then before I knew it, my PC was ready to be set up.
+The application was built using a combination of Javascript, Semantic UI, and React. It utilizies the Meteor framework as its architecture and the MongoDB database as a way to manage the data coming in and out as users use the website and write new data. A link to the deployment can be found [here](https://class-critics.xyz/#/).
 
-PC Building can be a very scary thing to think about especially for beginners who know nothing like I did but with care and time, it like "adult legos" as some people say. For those who are considering upgrading their systems, I would strongly recommend building your own as you would ultimately save more money and have the benefit of knowing how to maintain and fix your system in the future.
+## Collaboration
+
+Using GitHub as a primary way to collaborate on our project, myself and 4 others (Ana Araujo, John Suelen, Johnny Ho, Zi Jun Huang) worked on this project for approximately three weeks. For the duration of this project, my contributions were first creating a discord server for easy communication and establishing a project name. Then, I was responsible for drafting mockup pages, designing the overall theme of the website, constructing the landing page and assisted in efforts of other subsequent page implementations.
+
+
+
+
+
+
+
