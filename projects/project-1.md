@@ -8,19 +8,17 @@ date: 2019-10-01
 labels:
   - Java Project
   - ICS 111
-summary: I developed a small and simple game in an introductory ICS class.
+summary: A simple game built from Java in an introductory ICS class.
 ---
 
-## Farm-tastic
+<img class="ui small rounded image" src="../images/ics111.PNG">
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/ics111.PNG">
-</div>
+## Overview
 
-Farm-tastic is a simple point based game where you are able to control a tractor and your objective is to horde all the farm animals back to where they belong. I developed this game using an integrated java class called "EZ Java" which basically simplifies Java methods so that students can manipulate and interact with JFrames in a way that is easy to learn and work with. 
+Farm-tastic is a simple point based game designed using [EZ Graphics](http://www2.hawaii.edu/~dylank/ics111/) and Java where players can drive a tractor around and their objective is to horde all the farm animals on a map created with obstables that players will have to avoid or they will crash.
 
-The basis of this game allowed me to learn about how coordinates work visually, making boundaries with objects, and creating conditionals for certain events. Below is a video demonstrating how it works.
+This game was created when I took my very first ICS class at UH Manoa. With the help of EZ, which is a library of multimedia functions designed to make it easier for novice programmers build java applications with graphics and sound, I was able to use Eclipse IDE along with the Java Development Kit to create this simple game while incorporating concepts that I learned in the course, such as classes instances and object oriented programming. While programming this game, I learned some interesting things about how coordinates and visual boundaries work. Some of the things that I struggled with, like making it so that the tractor can't go through the buildings has strengthened my programming skills and improved the way I think about problems.
 
-Link: https://www.youtube.com/watch?v=fOM2NSGOULc&feature=youtu.be
+## Source Code
 
-Source Code is included in the video.
+A link to a demonstration video of this game can he found [here](https://www.youtube.com/watch?v=fOM2NSGOULc&feature=youtu.be). The video also shows the source code that I worked with to make this game function and sound the way it does.
