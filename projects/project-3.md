@@ -12,7 +12,8 @@ labels:
 summary: A web application that serves as a review site built for the UH Manoa community,
 ---
 
-<img src=/images/class-critics-landing.png/>
+<img class="ui medium image" src="../images/class-critics-landing.png">
+
 
 ## Overview
 
